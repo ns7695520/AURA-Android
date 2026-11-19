@@ -1,4 +1,4 @@
-"
+
 name: Build AURA Android APK
 
 on:
@@ -48,4 +48,4 @@ jobs:
           name: AURA-debug-apk
           path: android/app/build/outputs/apk/debug/app-debug.apk
           if-no-files-found: error
-"
+
