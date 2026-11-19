@@ -1,0 +1,8 @@
+{
+  "appId": "com.aura.companion",
+  "appName": "AURA",
+  "webDir": "public",
+  "server": {
+    "androidScheme": "https"
+  }
+}
